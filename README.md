@@ -1,7 +1,5 @@
 #sam2-auto-annotation-pipeline
 
-Step 1 - Uploading GWHD 2021 Dataset to Roboflow Open In Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samuelyoon17/sam2-auto-annotation-pipeline/blob/main/Step_1_Uploading_GWHD_2021_Dataset_to_Roboflow.ipynb)
+https://colab.research.google.com/drive/16SkSwvPBzpHvp-ahN8kb4FAM5EsIdQvI
 
-Step 2 - Creating Segmentation Annotations of GWHD 2021 Dataset for Roboflow Open In Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://drive.google.com/file/d/1YT73XYNbji_FeBkNf9M_Tf3sPWJ_VNS6/view?usp=drive_link
